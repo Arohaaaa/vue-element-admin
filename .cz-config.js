@@ -10,7 +10,7 @@ module.exports = {
       name: 'refactor: 重构(既不是增加feature，也不是修复bug)'
     },
     { value: 'perf', name: 'perf:     性能优化' },
-    { value: 'test', name: 'test:     增加测试' },
+    { value: 'test', name: 'test:     增加测试' }
   ],
   // 消息步骤
   messages: {
